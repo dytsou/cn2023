@@ -1,0 +1,12 @@
+------------------------------------------------------------
+Server listening on TCP port 8888
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.3 port 8888 connected with 10.0.0.1 port 36334
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 1.0 sec   120 KBytes   985 Kbits/sec
+[  4]  1.0- 2.0 sec   115 KBytes   938 Kbits/sec
+[  4]  2.0- 3.0 sec   119 KBytes   973 Kbits/sec
+[  4]  3.0- 4.0 sec   115 KBytes   938 Kbits/sec
+[  4]  4.0- 5.0 sec   119 KBytes   973 Kbits/sec
+[  4]  0.0- 5.0 sec   590 KBytes   964 Kbits/sec
